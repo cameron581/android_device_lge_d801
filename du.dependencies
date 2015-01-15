@@ -1,0 +1,25 @@
+[
+  {
+    "remote": "gh",
+    "repository": "G2Liquid/android_device_lge_g2-common",
+    "target_path": "device/lge/g2-common"
+  },
+  {
+    "remote":      "gh",
+    "repository":  "G2Liquid/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision":    "lollipop"
+  },
+  {
+    "remote":      "gh",
+    "repository":  "G2Liquid/android_kernel_lge_msm8974",
+    "target_path": "kernel/lge/msm8974",
+    "revision":    "lollipop"
+  },
+  {
+    "remote":      "gh",
+    "repository":  "G2Liquid/android_platform_vendor_lge",
+    "target_path": "vendor/lge",
+    "revision":    "lp"
+  }
+]
